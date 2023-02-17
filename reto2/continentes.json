@@ -1,0 +1,38 @@
+[
+{
+    "id":"01",
+    "nombre":"America",
+    "tamaño":"42 978 000 km²"
+}
+,
+{
+    "id":"02",
+    "nombre":"Europa",
+    "tamaño":"10 530 751 km²"
+}
+,
+{
+    "id":"03",
+    "nombre":"Asia",
+    "tamaño":"44 541 138 km²"
+}
+,
+{
+    "id":"04",
+    "nombre":"Africa",
+    "tamaño":"30 221 535 km²"
+}
+,
+{
+    "id":"05",
+    "nombre":"Oceania",
+    "tamaño":"8 542 4991​ km²"
+}
+,
+{
+    "id":"06",
+    "nombre":"Antartida",
+    "tamaño":"14 107 637 km²"
+}
+
+]

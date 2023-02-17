@@ -1,0 +1,36 @@
+[{
+
+    "Nombre":"Bruno",
+    "Genero": "Macho",
+    "Color": "Negro",
+    "Tipo": "Perro",
+    "Fecha_nacimiento":"10/05/2015"
+
+},
+{
+    "Nombre":"Mafi",
+    "Genero": "Hembra",
+    "Color": "Negro",
+    "Tipo": "Perro",
+    "Fecha_nacimiento":"10/05/2015"
+},
+{
+    "Nombre":"Deivin",
+    "Genero": "Indefinido",
+    "Color": "blanco extraño",
+    "Tipo": "Gato",
+    "Fecha_nacimiento":"21/07/2019"
+    
+
+}
+,
+{
+    "Nombre":"Constrictor",
+    "Genero": "Macho",
+    "Color": "Verde",
+    "Tipo": "Serpiente",
+    "Fecha_nacimiento":"2017"
+    
+
+}
+]
